@@ -1,12 +1,12 @@
 ### OrderDeliverySystem
 
-* #### The main objective of the project :
+#### The main objective of the project :
 programming a delivery system that serves the user and provides him with many good drivers to deliver their orders, with the addition of many special delivery offers
-* #### A simplified idea of our delivery system:
+#### A simplified idea of our delivery system:
 a system that allows the user to enter his personal Information and his location data , then displays many stores for him to choose from, then he chooses what he wants from the orders and they are saved for him in the cart, he will be shown many drivers present in his area to deliver his order and submit offers especially for him
 
 
-
+#### more details:
 First, the user will be asked to enter his personal information like first name, last name, phone number,
 and he must enter valid values, otherwise he will be asked to re-enter them.
 Next, a list of available payment methods will be displayed to the user to choose from,
@@ -30,7 +30,9 @@ Finally, the program will ask the user to rate the driver service out of 5, and 
 type in the reason fot his rating. 
 
 
-##### working team:
+
+
+### working team:
 * Murooj Al-zahrani | ID : 443008435
 * Manar Al Mashi    | ID : 443008492
 * Fatme Bin Bisher  | ID : 443012084
