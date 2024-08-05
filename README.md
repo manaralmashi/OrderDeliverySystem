@@ -33,8 +33,8 @@ type in the reason fot his rating.
 
 
 ### working team:
-* Murooj Al-zahrani | ID : 443008435
-* Manar Al Mashi    | ID : 443008492
-* Fatme Bin Bisher  | ID : 443012084
-* Lamis Mohammed    | ID : 443007788
-* Arwa Asiri        | ID : 443008129
+* Murooj Al-Zahrani
+* Manar Al Mashi
+* Fatme Bin Bishe
+* Lamis Mohammed
+* Arwa Asiri
